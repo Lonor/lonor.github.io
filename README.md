@@ -1,5 +1,7 @@
 # Hello World Project using Vue
 
+My about page.
+
 ## Project setup
 ```
 npm install
